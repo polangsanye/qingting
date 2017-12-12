@@ -1,0 +1,78 @@
+.project-wrap {
+  width: 990px;
+  margin: 17px auto 30px;
+  font-size: 0;
+}
+.project-wrap .title-wrap {
+  display: inline-block;
+  vertical-align: top;
+}
+.project-wrap .cont-wrap {
+  margin-left: 20px;
+  display: inline-block;
+  vertical-align: top;
+}
+.project-wrap .cont-wrap .news-cont {
+  width: 770px;
+  box-sizing: border-box;
+  background-color: #fff;
+  box-shadow: 0 5px 20px 0 #D5DCF1;
+  border-radius: 6px;
+}
+.project-wrap .cont-wrap .news-cont .title {
+  padding: 0 10px;
+  line-height: 60px;
+  box-shadow: inset 0 -1px 0 0 #E5E5E5;
+  margin-bottom: 10px;
+}
+.project-wrap .cont-wrap .news-cont .title img {
+  width: 40px;
+  vertical-align: middle;
+  padding-bottom: 7px;
+}
+.project-wrap .cont-wrap .news-cont .title span {
+  font-size: 18px;
+  color: #277BE3;
+  margin-left: 10px;
+}
+.project-wrap .cont-wrap .news-cont .cont-list ._cont-item li {
+  display: flex;
+  padding: 10px 20px 10px 10px;
+  box-shadow: inset 0 -1px 0 0 #E5E5E5;
+}
+.project-wrap .cont-wrap .news-cont .cont-list ._cont-item li:last-child {
+  box-shadow: none;
+}
+.project-wrap .cont-wrap .news-cont .cont-list ._cont-item li .img-cont {
+  flex: 0 0 200px;
+  width: 200px;
+  margin-right: 15px;
+}
+.project-wrap .cont-wrap .news-cont .cont-list ._cont-item li .news-item {
+  flex: 1;
+}
+.project-wrap .cont-wrap .news-cont .cont-list ._cont-item li .news-item .small-title {
+  display: flex;
+  line-height: 18px;
+  margin: 5px 0 8px;
+}
+.project-wrap .cont-wrap .news-cont .cont-list ._cont-item li .news-item .small-title .item-title {
+  flex: 0 0 400px;
+  font-size: 18px;
+  color: #333;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.project-wrap .cont-wrap .news-cont .cont-list ._cont-item li .news-item .small-title .item-time {
+  flex: 0 0 125px;
+  text-align: center;
+  font-size: 14px;
+  color: #666;
+}
+.project-wrap .cont-wrap .news-cont .cont-list ._cont-item li .news-item .item-detail {
+  font-size: 14px;
+  color: #333333;
+  letter-spacing: 0;
+  line-height: 21px;
+}

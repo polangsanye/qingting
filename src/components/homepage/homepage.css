@@ -1,0 +1,115 @@
+.shouye {
+  width: 990px;
+  margin: 10px auto 30px;
+  font-size: 0;
+}
+.shouye .swipper-wrap {
+  display: inline-block;
+  width: 688px;
+  height: 300px;
+  vertical-align: top;
+}
+.shouye .news-wrap {
+  display: inline-block;
+  vertical-align: top;
+  width: 280px;
+  height: 300px;
+  box-sizing: border-box;
+  background: #FFFFFF;
+  margin-left: 20px;
+  box-shadow: 0 5px 20px 0 #D5DCF1;
+  border-radius: 4px;
+  overflow: hidden;
+}
+.shouye .news-wrap .title {
+  display: flex;
+  padding: 0 10px;
+  justify-content: space-around;
+  align-items: center;
+  cursor: pointer;
+  height: 35px;
+  line-height: 35px;
+  border: 1px solid #d9d9d9;
+  background: #eff1f7;
+}
+.shouye .news-wrap .title .title-item {
+  font-size: 16px;
+  flex: 1;
+  text-align: center;
+  box-sizing: border-box;
+}
+.shouye .news-wrap .title .title-item.active {
+  background: #fff;
+  border-left: 1px solid #d9d9d9;
+  border-right: 1px solid #d9d9d9;
+  border-bottom: 1px solid #fff;
+}
+.shouye .news-wrap .text {
+  font-size: 14px;
+  padding: 0 8px 0;
+  box-sizing: border-box;
+}
+.shouye .news-wrap .text .text-item a {
+  display: block;
+  width: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  height: 43px;
+  line-height: 43px;
+  background: #FFFFFF;
+  box-shadow: inset 0 -1px 0 0 #E5E5E5;
+  color: #333;
+}
+.shouye .details-wrap {
+  margin: 20px 0 0;
+  width: 990px;
+  height: 470px;
+  box-shadow: 0 5px 20px 0 #D5DCF1;
+}
+.shouye .details-wrap .detail-item {
+  width: 485px;
+  display: inline-block;
+  vertical-align: top;
+  box-sizing: border-box;
+  padding: 25px 29px 0 31px;
+  background: #fff;
+  height: 470px;
+}
+.shouye .details-wrap .detail-item:last-child {
+  margin-left: 20px;
+}
+.shouye .details-wrap .detail-item .title {
+  border-bottom: 1px solid #277BE3;
+  margin-bottom: 20px;
+  position: relative;
+  font-size: 18px;
+}
+.shouye .details-wrap .detail-item .title .left {
+  display: inline-block;
+  border-bottom: 4px solid #277BE3;
+  padding-bottom: 9px;
+  color: #277BE3;
+}
+.shouye .details-wrap .detail-item .title .left img {
+  width: 28px;
+  vertical-align: middle;
+}
+.shouye .details-wrap .detail-item .title .left span {
+  margin-left: 5px;
+}
+.shouye .details-wrap .detail-item .title .more {
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 5px;
+  padding: 5px;
+  color: #333;
+}
+.shouye .details-wrap .detail-item p {
+  margin-top: 20px;
+  font-size: 14px;
+  color: #333333;
+  letter-spacing: 0;
+  line-height: 20px;
+}

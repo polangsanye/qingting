@@ -1,0 +1,182 @@
+{
+  "homepage": {
+    "imgList": [
+      "https://img13.360buyimg.com/da/jfs/t4849/263/1920488251/121724/9d4a03be/58f5e2eaN9e42f6f4.jpg",
+      "https://img1.360buyimg.com/da/jfs/t4666/2/2913917541/60341/4d3a5cd1/58f4a5c0N26e3a196.jpg",
+      "https://img14.360buyimg.com/da/jfs/t4540/138/2991736642/140007/f589b7bb/58f55f42N6b26fdb3.jpg",
+      "https://img12.360buyimg.com/da/jfs/t4612/82/2938038792/160271/9fd87e/58f6be75N91a0dd50.jpg",
+      "https://img14.360buyimg.com/da/jfs/t4600/142/3059953564/97715/b1f09a19/58f63212N9773e7ab.jpg"
+    ],
+    "text": [
+      [
+        "中钢组织架构"
+      ],
+      [
+        "中钢冶金与宁夏博金特签署停车项目合作协议",
+        "中钢冶金与大连甘井子区签署停车项目合作协议",
+        "外媒称中国有近2亿汽车却难找停车位：习惯免费",
+        "呼和浩特首个路内停车泊位将实现智能化",
+        "发展立体停车或将是解决停车难问题的良药",
+        "发展立体停车或将是解决停车难问题的良药",
+        "地铁站边免费停车处突然收费"
+      ],
+      []
+    ],
+    "details": [
+      {
+        "logo": "http://www.wangjiangang.top/images/show_example.png",
+        "title": "立体车库",
+        "large_logo": "http://www.wangjiangang.top/images/liticheku.png",
+        "sub_title": "A.G.V智能立体停车库",
+        "content": "即智能停车机器人，是一种用于停车领域的AGV汽车搬运机器人。 目前国内仅且只有首钢城运机器人公司利用激光自动导航核心技术，成功研发出世界上第一台“激光导航+梳齿交换”式汽车搬"
+      },
+      {
+        "logo": "http://www.wangjiangang.top/images/smart_park.png",
+        "title": "智慧停车",
+        "large_logo": "http://www.wangjiangang.top/images/zhihuitingche.png",
+        "sub_title": "停车智能大屏",
+        "content": "通过平台信息反馈、可提供包括实时车位、使用率、车辆轨迹、资费、区域拥堵预警等信息化看板，平台基于H5页面深度开发，无需硬件配置"
+      }
+    ]
+  },
+  "news": [
+    {
+      "logo": "http://www.wangjiangang.top/images/gongbu.png",
+      "title": "公布栏",
+      "cont": [
+        {
+          "text": "关于2017年小客车指标总量和配置比例的通告",
+          "time": "2017-02-04"
+        },
+        {
+          "text": "关于2017年小客车指标总量和配置比例的通告",
+          "time": "2017-02-04"
+        },
+        {
+          "text": "关于2017年小客车指标总量和配置比例的通告",
+          "time": "2017-02-04"
+        }
+      ]
+    },
+    {
+      "logo": "http://www.wangjiangang.top/images/news.png",
+      "title": "新闻转载",
+      "cont": [
+        {
+          "text": "关于2017年小客车指标总量和配置比例的通告",
+          "time": "2017-02-04"
+        },
+        {
+          "text": "关于2017年小客车指标总量和配置比例的通告",
+          "time": "2017-02-04"
+        },
+        {
+          "text": "关于2017年小客车指标总量和配置比例的通告",
+          "time": "2017-02-04"
+        },
+        {
+          "text": "关于2017年小客车指标总量和配置比例的通告",
+          "time": "2017-02-04"
+        },
+        {
+          "text": "关于2017年小客车指标总量和配置比例的通告",
+          "time": "2017-02-04"
+        },
+        {
+          "text": "关于2017年小客车指标总量和配置比例的通告",
+          "time": "2017-02-04"
+        }
+      ]
+    },
+    {
+      "logo": "http://www.wangjiangang.top/images/zixun.png",
+      "title": "咨询栏",
+      "cont": [
+        {
+          "text": "立体车库的类型有哪些？",
+          "name": "夏东海",
+          "askTime": "2017-02-04",
+          "returnTime": "2017-02-04",
+          "check":"检查"
+        },
+        {
+          "text": "立体车库的类型有哪些？",
+          "name": "夏东海",
+          "askTime": "2017-02-04",
+          "returnTime": "2017-02-04",
+          "check":"检查"
+        },
+        {
+          "text": "立体车库的类型有哪些？",
+          "name": "夏东海",
+          "askTime": "2017-02-04",
+          "returnTime": "2017-02-04",
+          "check":"检查"
+        },
+        {
+          "text": "立体车库的类型有哪些？",
+          "name": "夏东海",
+          "askTime": "2017-02-04",
+          "returnTime": "2017-02-04",
+          "check":"检查"
+        }
+      ]
+    }
+  ],
+  "project":[
+    {
+     "logo":"http://www.wangjiangang.top/images/liti_park.png",
+      "text":"立体车库",
+      "cont":[
+        {
+          "large_logo":"http://www.wangjiangang.top/images/zhanshi.png",
+          "title":"关于2017年小客车指标总量和配置比例的通告总",
+          "time":"2017-02-04",
+          "news":"首钢适建于1919年，迄今已有百年历史。首钢历经苦痛磨难、快速发展、改革腾飞、搬迁调整的历史阶段，目前已发展成为经营钢铁业、矿产资源业、环境产业、装备与汽车零部件制造业、建筑及房地产业、生产性服务业。"
+        },
+        {
+          "large_logo":"http://www.wangjiangang.top/images/zhanshi.png",
+          "title":"关于2017年小客车指标总量和配置比例的通告总",
+          "time":"2017-02-04",
+          "news":"首钢适建于1919年，迄今已有百年历史。首钢历经苦痛磨难、快速发展、改革腾飞、搬迁调整的历史阶段，目前已发展成为经营钢铁业、矿产资源业、环境产业、装备与汽车零部件制造业、建筑及房地产业、生产性服务业。"
+        }
+      ]
+    },
+    {
+      "logo":"http://www.wangjiangang.top/images/show_example.png",
+      "text":"实例展示",
+      "cont":[
+        {
+          "large_logo":"http://www.wangjiangang.top/images/zhanshi.png",
+          "title":"关于2017年小客车指标总量和配置比例的通告总",
+          "time":"2017-02-04",
+          "news":"首钢适建于1919年，迄今已有百年历史。首钢历经苦痛磨难、快速发展、改革腾飞、搬迁调整的历史阶段，目前已发展成为经营钢铁业、矿产资源业、环境产业、装备与汽车零部件制造业、建筑及房地产业、生产性服务业。"
+        },
+        {
+          "large_logo":"http://www.wangjiangang.top/images/zhanshi.png",
+          "title":"关于2017年小客车指标总量和配置比例的通告总",
+          "time":"2017-02-04",
+          "news":"首钢适建于1919年，迄今已有百年历史。首钢历经苦痛磨难、快速发展、改革腾飞、搬迁调整的历史阶段，目前已发展成为经营钢铁业、矿产资源业、环境产业、装备与汽车零部件制造业、建筑及房地产业、生产性服务业。"
+        },
+        {
+          "large_logo":"http://www.wangjiangang.top/images/zhanshi.png",
+          "title":"关于2017年小客车指标总量和配置比例的通告总",
+          "time":"2017-02-04",
+          "news":"首钢适建于1919年，迄今已有百年历史。首钢历经苦痛磨难、快速发展、改革腾飞、搬迁调整的历史阶段，目前已发展成为经营钢铁业、矿产资源业、环境产业、装备与汽车零部件制造业、建筑及房地产业、生产性服务业。"
+        }
+      ]
+    },
+    {
+      "logo":"http://www.wangjiangang.top/images/smart_park.png",
+      "text":"智慧停车",
+      "cont":[
+        {
+          "large_logo":"http://www.wangjiangang.top/images/zhanshi.png",
+          "title":"关于2017年小客车指标总量和配置比例的通告总",
+          "time":"2017-02-04",
+          "news":"首钢适建于1919年，迄今已有百年历史。首钢历经苦痛磨难、快速发展、改革腾飞、搬迁调整的历史阶段，目前已发展成为经营钢铁业、矿产资源业、环境产业、装备与汽车零部件制造业、建筑及房地产业、生产性服务业。"
+        }
+      ]
+    }
+  ]
+}

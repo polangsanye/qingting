@@ -1,0 +1,37 @@
+.sidebar{
+  width: 200px;
+  box-sizing: border-box;
+  .bread-crumbs{
+    font-size: 13px;
+    color: #666666;
+    letter-spacing: 0;
+    line-height: 13px;
+  }
+  .title-list{
+    ul{
+      box-shadow: 0 5px 20px 0 #D5DCF1;
+      margin-top: 10px;
+      border-radius: 6px;
+      background-color: #fff;
+      li{
+        height: 60px;
+        line-height: 60px;
+        padding: 0 20px;
+        border-radius: 6px;
+        position: relative;
+        font-size: 16px;
+        color: #277BE3;
+        cursor: pointer;
+        &.active{
+          background-color: #2C7EE4;
+          color: #fff;
+        }
+        img{
+          position: absolute;
+          right: 20px;
+          top: 20px;
+        }
+      }
+    }
+  }
+}
