@@ -1,7 +1,7 @@
 # qtkj
 
 > A Vue.js project
-#效果预览 https://polangsanye.github.io/qingting/dist/index.html
+# 效果预览 https://polangsanye.github.io/qingting/dist/index.html
 
 ## Build Setup
 
